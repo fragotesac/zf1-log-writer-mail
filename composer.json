@@ -1,5 +1,5 @@
 {
-    "name": "diablomedia/zendframework1-log-writer-mail",
+    "name": "fragotesac/zf1-log-writer-mail",
     "description": "Zend Framework 1 Log_Writer_Mail component",
     "type": "library",
     "keywords": [
